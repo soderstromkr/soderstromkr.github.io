@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-title: [Kristofer's homepage]
-description: [Homepage for contact information and portfolio]
-logo: [Add image address]
+title: "Kristofer's homepage"
+description: "About, contact and portfolio"
+logo: ./assets/KRS.png
