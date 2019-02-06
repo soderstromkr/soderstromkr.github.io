@@ -1,3 +1,3 @@
 Homepage (work in progress)
 ---
-[Portfolio](./portfolio
+[Portfolio](./PORTFOLIO.md)
