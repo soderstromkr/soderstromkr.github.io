@@ -1,10 +1,10 @@
 # Resume
 ## Relevant Education
-**MSc (120 ECTS) with a Major in Economic Growth, Innovation & Spatial Dynamics - 08/2014 – 08/2016**   
-*Lund University. Lund, Sweden.*
-  - Notable courses: Advanced Time Series Analysis; Applied Microeconometrics; Innovation, Energy and Sustainability.
-**Bachelor’s Degree in Economics                                                      	                               08/2009 – 06/2013**
-*Universidad Anahuac Mexico Sur. Mexico City. Mexico*
+**MSc (120 ECTS) with a Major in Economic Growth, Innovation & Spatial Dynamics** 
+*Lund University. Lund, Sweden.2016*
+- Notable courses: Advanced Time Series Analysis; Applied Microeconometrics; Innovation, Energy and Sustainability.
+**Bachelor’s Degree in Economics                                                      	                               
+*Universidad Anahuac Mexico Sur. Mexico City. Mexico. 2013*
   - Notable courses: Statistical Inference, Differential equations, Econometrics I, II & Applied, . 
 **Machine Learning**                                                       	
 *Specialization. Online*
