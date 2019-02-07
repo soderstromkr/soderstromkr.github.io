@@ -1,6 +1,6 @@
 # Resume
 ## Relevant Education
-**Master of Science (120 ECTS) with a Major in Economic Growth, Innovation & Spatial Dynamics - 08/2014 – 08/2016**   
+**MSc (120 ECTS) with a Major in Economic Growth, Innovation & Spatial Dynamics - 08/2014 – 08/2016**   
 *Lund University. Lund, Sweden.*
   - Notable courses: Advanced Time Series Analysis; Applied Microeconometrics; Innovation, Energy and Sustainability.
 **Bachelor’s Degree in Economics                                                      	                               08/2009 – 06/2013**
