@@ -5,7 +5,9 @@ This notebook showcases the ETL process and model prediction for an example data
 ### [Exploratory analysis, visualization and prediction](https://www.kaggle.com/kristofersoderstrom/pubg-main)
 This notebook showcases data exploration, feature engineering, visualization and predictions with a video-game database. 
 ### [Multilayer Perceptron with Keras](https://www.kaggle.com/kristofersoderstrom/titanic-mlp)
- A simple implementation of a multilayer perceptron in Keras. 
+ A simple implementation of a fully connected network on the educational Titanic dataset. One of my first home projects.
+### [Convolutional neural network with Keras](https://www.kaggle.com/kristofersoderstrom/simplenn)
+A simple implementation of a CNN on the educational digits database. 
 ## Econometric analysis and statistical inference
 ### [A spatial analysis of innovation in regional Europe](http://lup.lub.lu.se/student-papers/record/7615461 )
 Implemented a spatial autoregressive model to successfully explain the agglomeration of innovative regions in Europe.
