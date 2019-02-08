@@ -4,7 +4,7 @@
 This notebook showcases the ETL process and model prediction for an example dataset. Rather than showcasing skills in feature engineering, model building or interpretation, this notebook is meant to show familiarity with 1) the PySpark framework and display my understanding of the ETL process, and 2) the functionalities available with the H2O API.
 ### [Exploratory analysis, visualization and prediction](https://www.kaggle.com/kristofersoderstrom/pubg-main)
 This notebook showcases data exploration, feature engineering, visualization and predictions with a video-game database. 
-## [Multilayer Perceptron with Keras](https://www.kaggle.com/kristofersoderstrom/titanic-mlp)
+### [Multilayer Perceptron with Keras](https://www.kaggle.com/kristofersoderstrom/titanic-mlp)
  A simple implementation of a multilayer perceptron in Keras. 
 ## Econometric analysis and statistical inference
 ### [A spatial analysis of innovation in regional Europe](http://lup.lub.lu.se/student-papers/record/7615461 )
