@@ -1,4 +1,7 @@
 # Portfolio
+## Network Theory
+### [Social Network Analysis](./SNA_test.ipynb)
+TEST
 ## ETL, descriptive statistics and machine learning
 ### [Explore, transform, load and prediction with PySpark and H2O](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4901559484398239/3985008231453347/377123234447052/latest.html)
 This notebook showcases the ETL process and model prediction for an example dataset. Rather than showcasing skills in feature engineering, model building or interpretation, this notebook is meant to show familiarity with 1) the PySpark framework and display my understanding of the ETL process, and 2) the functionalities available with the H2O API.
@@ -6,8 +9,6 @@ This notebook showcases the ETL process and model prediction for an example data
 This notebook showcases data exploration, feature engineering, visualization and predictions with a video-game database. 
 ### [Multilayer Perceptron with Keras](https://www.kaggle.com/kristofersoderstrom/titanic-mlp)
  A simple implementation of a fully connected network on the educational Titanic dataset. One of my first home projects.
-### [Convolutional neural network with Keras](https://www.kaggle.com/kristofersoderstrom/simplenn)
-A simple implementation of a CNN on the educational digits database. 
 ## Econometric analysis and statistical inference
 ### [A spatial analysis of innovation in regional Europe](http://lup.lub.lu.se/student-papers/record/7615461 )
 Implemented a spatial autoregressive model to successfully explain the agglomeration of innovative regions in Europe.
