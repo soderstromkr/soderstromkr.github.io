@@ -1,4 +1,7 @@
 # Portfolio
+## Natural Language Processing
+### [Text analysis on scientific paper](https://github.com/krist0fer/krist0fer.github.io/blob/master/portfolio/nlp_test.ipynb)
+Sample implementation of Natural Language Processing on a research paper to explore elements of tokenization, word embeddings and vectorization.
 ## Network Theory
 ### [Social Network Analysis](https://github.com/krist0fer/krist0fer.github.io/blob/master/portfolio/SNA_test.ipynb)
 Simple implementation of SNA to randomly generated data. Exploring concepts like clustering, centrality and community detection.  
