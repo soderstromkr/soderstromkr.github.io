@@ -1,11 +1,17 @@
 # Portfolio
+## Preference Learning
+### [Predicting car preferences](https://github.com/krist0fer/krist0fer.github.io/blob/master/portfolio/car_rankings.ipynb)
+Attempts to dive into preference learning. Exploring concepts like pairwise ranking and prediction using SVMs. 
+## Unsupervised Learning
+### [Player profiles with clustering](https://www.kaggle.com/kristofersoderstrom/pubg-profiles)
+Created player profiles for the game Player Unknown Battlegrounds using kmeans clustering. 
 ## Natural Language Processing
 ### [Text analysis on scientific paper](https://github.com/krist0fer/krist0fer.github.io/blob/master/portfolio/nlp_test.ipynb)
 Sample implementation of Natural Language Processing on a research paper to explore elements of tokenization, word embeddings and vectorization.
 ## Networks
 ### [Social Network Analysis](https://github.com/krist0fer/krist0fer.github.io/blob/master/portfolio/SNA_test.ipynb)
 Simple implementation of SNA to randomly generated data. Exploring concepts like clustering, centrality and community detection.  
-## ETL, descriptive statistics and machine learning
+## ETL, EDA and Supervised Learning
 ### [Explore, transform, load and prediction with PySpark and H2O](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4901559484398239/3985008231453347/377123234447052/latest.html)
 This notebook showcases the ETL process and model prediction for an example dataset.
 ### [Exploratory analysis, visualization and prediction](https://www.kaggle.com/kristofersoderstrom/pubg-main)
