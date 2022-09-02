@@ -1,4 +1,4 @@
-[Back](https://krist0fer.github.io)
+[Back](https://soderstromkr.github.io)
 # Portfolio
 ## Journal Articles 
 ### Kristofer Rolf Söderström, Fredrik Åström, Olof Hallonsten; Generic instruments in a synchrotron radiation facility. Quantitative Science Studies 2022; 3 (2): 420–442. [doi: https://doi.org/10.1162/qss_a_00190](https://doi.org/10.1162/qss_a_00190)
