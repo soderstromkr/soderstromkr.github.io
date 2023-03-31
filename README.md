@@ -1,5 +1,4 @@
-About
-====
+## About
 Portfolio and repository for data and materials from research articles.
 ### [Portfolio](./portfolio.md)
 ### Repository 
