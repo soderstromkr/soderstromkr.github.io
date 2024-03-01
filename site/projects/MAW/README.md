@@ -1,4 +1,4 @@
-### SERP poisoning and the infrastructure for search
+### Network visualisations
 
 [Click here for interactive visualisation](https://soderstromkr.github.io/site/projects/MAW/network_1/index.html)
 
