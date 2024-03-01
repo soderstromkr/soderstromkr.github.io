@@ -1,5 +1,6 @@
 ## About
 Repository for data and materials from research articles.
+/Kristofer Söderström, Researcher @ Lund University
 ### Repository 
 1. [geoaddress](https://soderstromkr.github.io/geoaddress/)
 1. [transcribe locally with whisper](https://github.com/soderstromkr/transcribe)
