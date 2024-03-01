@@ -4,6 +4,7 @@ Portfolio and repository for data and materials from research articles.
 ### Repository 
 1. [geoaddress](https://soderstromkr.github.io/geoaddress/)
 1. [transcribe locally with whisper](https://github.com/soderstromkr/transcribe)
+1. [structured data from acknowledgements text](https://github.com/soderstromkr/acknowledge)
 1. More soon...
 
 Social media and research profile
