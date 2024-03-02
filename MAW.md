@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MAW Project"
-permalink: /projects/MAW
+permalink: /MAW
 ---
 
 ### Network visualisations
