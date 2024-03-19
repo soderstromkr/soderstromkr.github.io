@@ -2,7 +2,7 @@
 
 Welcome to article repository. This page provides the interactive networks.
 
-![Comparison](site/projects/MAW/Figure3.png)
+![Comparison](../Figure3.png)
 
 For detailed analyses, follow the links below:
 
