@@ -15,7 +15,7 @@
             min-height: 100vh;
         }
         img {
-            width: 800px; /* Adjust this as needed */
+            width: 500px; /* Adjust this as needed */
             margin-top: 20px;
         }
         ul {
@@ -32,6 +32,16 @@
         a:hover {
             text-decoration: underline;
         }
+        pre {
+            text-align: left;
+            background-color: #f4f4f4;
+            padding: 15px;
+            border-radius: 5px;
+            max-width: 80%;
+            overflow: auto;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
@@ -44,5 +54,18 @@
         <li><a href="../Fig3a.html">3a. Paracetamol</a></li>
         <li><a href="../Fig3b.html">3b. Viagra</a></li>
     </ul>
+    <h2>Physics configuration</h2>
+    <p>The default visualisation method is forceAtlas2Based. You can configure the physics options below the interactive graphs.</p>
+    <p>These values are modified for the visualisations in Figure 3:</p>
+    <pre>
+# Gravitational Constant
+gravitational_constant = -10
+
+# Spring Length
+spring_length = 35
+
+# Avoid Overlap
+avoid_overlap = 0.2
+    </pre>
 </body>
 </html>
