@@ -6,5 +6,5 @@ Welcome to article repository. This page provides the interactive networks.
 
 For detailed analyses, follow the links below:
 
-- [3a. Paracetamol](site/projects/MAW/Fig3a.html)
-- [3b. Viagra](site/projects/MAW/Fig3b.html)
+- [3a. Paracetamol](../Fig3a.html)
+- [3b. Viagra](../Fig3b.html)
